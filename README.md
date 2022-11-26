@@ -1,11 +1,16 @@
-# Ambiente de desenvolvimento produtivo Java no Windows
+<h1 align="center"> Ambiente de desenvolvimento produtivo Java no Windows </h1>
+
 
 ## WSL
+Vá em **Iniciar**, digite **cmd**, clique direito no aplicativo **Prompt de Comando**, clique em **Executar como administrador**.
 
-Vá em **Inicar**, digite **cmd** e clique em **Executar como administrador**.
-![cmd_as_admin](https://user-images.githubusercontent.com/9707812/204096069-7bba03c7-3c11-4bc7-bed0-a7ff65c05850.png)
-
-Com o terminal aberto, digite 
+Com o terminal aberto, digite:
 ```
 wsl --install -d Ubuntu
 ```
+## Windows Terminal
+Vá em **Iniciar**, digite **microsoft store**, clique no aplicativo **Microsoft Store**.
+
+Na barra de pesquisa, digite **windows terminal**, selecione a opção **Windows Terminal**.
+
+Na página do aplicativo Windows Terminal, clique no botão **Obter** para fazer a instalação.
